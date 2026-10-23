@@ -91,7 +91,7 @@ PDF upload                                 question
 Requirements: Python 3.10 or newer. An Anthropic API key is needed only for `/ask`.
 
 ```bash
-git clone <repository-url> mini-document-qa
+git clone https://github.com/thangtrac1110/mini-document-qa.git
 cd mini-document-qa
 
 python -m venv .venv
