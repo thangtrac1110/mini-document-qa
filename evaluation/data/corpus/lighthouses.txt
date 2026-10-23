@@ -1,0 +1,27 @@
+A Short History of Lighthouses
+
+People have marked dangerous coasts and harbor entrances with fires for thousands of years. The most famous ancient example is the Pharos of Alexandria in Egypt, built in the third century BC and counted among the Seven Wonders of the Ancient World. Ancient writers described a tall stone tower with a fire burning at the top that guided ships into the harbor. The tower was damaged by a series of earthquakes and eventually fell into ruin.
+
+For many centuries, lighthouses burned wood or coal in open fires or iron baskets. These fires were smoky, used large amounts of fuel and were hard to see in bad weather. Later towers used candles and then oil lamps, which gave a steadier light. Whale oil, colza oil from rapeseed and finally kerosene were all used as lamp fuels.
+
+Building towers on exposed rocks was extremely difficult. The Eddystone Lighthouse, on a reef south of Plymouth in England, was rebuilt several times. The first two wooden towers were destroyed, one by a great storm in 1703 and the other by fire. In 1759 the engineer John Smeaton completed a tower made of interlocking granite blocks shaped like dovetail joints. He also experimented with hydraulic lime, a mortar that sets under water, and his work influenced the later development of modern concrete. Smeaton's tower stood until the rock beneath it began to erode, and its upper part was rebuilt on land in Plymouth, where visitors can still see it.
+---page---
+Lenses and Light Signals
+
+Early lamps sent light in every direction, so most of it was wasted. Metal reflectors helped, but the great advance came in 1822 when the French physicist Augustin-Jean Fresnel designed a new kind of lens. A Fresnel lens is made of concentric rings of glass prisms arranged around a central lens. It bends and focuses light from the lamp into a narrow, powerful beam while being much thinner and lighter than a solid lens of the same size.
+
+Fresnel lenses were made in several sizes called orders. A first order lens is the largest and was used for major coastal lights, while smaller orders were used in harbors and on rivers. The beam from a first order lens could be seen more than 20 nautical miles away in clear weather.
+
+Each lighthouse shows its own light characteristic: a pattern of flashes, colors and dark periods. For example, one light might give a single white flash every ten seconds, while a nearby light gives two red flashes every fifteen seconds. Sailors look up the pattern in nautical charts and published lists of lights to identify which lighthouse they are seeing at night and work out their position. A rotating lens or a shutter mechanism produces the flashes.
+
+During the day, lighthouses are identified by their daymarks. Towers are painted with distinctive patterns such as black and white spiral stripes, red bands or checkerboard designs so that they stand out against the landscape.
+---page---
+Keepers and Automation
+
+For most of their history, lighthouses were operated by keepers who lived at or near the station. Their duties included trimming lamp wicks, refilling fuel, winding the clockwork that rotated the lens, and polishing the glass to remove soot from the lamps. Keepers recorded weather and passing ships in a logbook and often helped rescue sailors from wrecks. Life at remote rock stations was isolated, and keepers sometimes spent weeks without seeing anyone except their colleagues.
+
+During the twentieth century, electricity replaced oil lamps, and automatic lamp changers, timers and remote monitoring made full-time keepers unnecessary. Lighthouse services in many countries automated their stations step by step. In the United States, Boston Light was the last station to be automated, in 1998. Today many lanterns use efficient LED lamps powered by solar panels and batteries.
+
+Satellite navigation systems such as GPS now give sailors precise positions, which has reduced reliance on lighthouses. However, electronic systems can fail, so lights are still maintained as a backup aid to navigation.
+
+Many old lighthouses have been restored by local groups and turned into museums, hotels or holiday homes. Their towers remain popular landmarks, and the stories of their keepers are an important part of coastal history.

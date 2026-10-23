@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mini-document-qa"
+version = "0.2.0"
+description = "Document Q&A over text-based PDFs: BM25 retrieval plus LLM answers with validated citations."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.115,<1",
+    "uvicorn>=0.30,<1",
+    "python-multipart>=0.0.9",
+    "pymupdf>=1.24,<3",
+    "rank-bm25==0.2.2",
+    "anthropic>=2.1,<3",
+    "python-dotenv>=1.0",  # lets `uvicorn --env-file .env` load the API key
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8",
+    "httpx2>=2.16,<3",  # used by FastAPI's TestClient (Starlette deprecated plain httpx)
+]
+
+[tool.setuptools.packages.find]
+include = ["app*", "evaluation*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
